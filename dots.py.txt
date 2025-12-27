@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Dec 27 13:05:52 2025
+
+@author: user
+"""
+
+otam={'ism':'Nasriddin','yil':1974,'shahar':'Namangan'}
+onam={'ism':'Zubayra','yil':1976, 'shahar':'Namagan'}
+opam={'ism':'Sayida','yil':2000, 'shahar':'Toshkent'}
+print(f"Otamning ismi {otam['ism']},{otam['yil']} -yilda {otam['shahar']} da tugilgan")
